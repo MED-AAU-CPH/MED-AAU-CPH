@@ -74,32 +74,16 @@ Academically supervised student-governed problem oriented project work
 
 ### Prerequisite for enrollment for the exam
 
-- An approved PBL competency profile is a prerequisite for
-  participation in the project exam
+- An approved PBL competency profile is a prerequisite for participation in the project exam
 
 ### Exams
 
-+---------------+------------------------------------------------------+
-| Name of exam  | Immersive Experiences                                |
-+===============+======================================================+
-| Type of exam  | Oral exam based on a project                         |
-|               |                                                      |
-|               | Oral examination based on a written project report   |
-|               | and a media-technological product plus an A/V        |
-|               | production that illustrates and summarizes the       |
-|               | project.                                             |
-+---------------+------------------------------------------------------+
-| ECTS          | 15                                                   |
-+---------------+------------------------------------------------------+
-| Permitted     | With certain aids:                                   |
-| aids          |                                                      |
-|               | See semester description                             |
-+---------------+------------------------------------------------------+
-| Assessment    | 7-point grading scale                                |
-+---------------+------------------------------------------------------+
-| Type of       | External examination                                 |
-| grading       |                                                      |
-+---------------+------------------------------------------------------+
-| Criteria of   | The criteria of assessment are stated in the         |
-| assessment    | Examination Policies and Procedures                  |
-+---------------+------------------------------------------------------+
+
+| Name of exam           | Immersive Experiences                                                                                                                                                                       |
+| :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Type of exam           | Oral exam based on a project<br />Oral examination based on a written project report and a media-technological product plus an A/V production that illustrates and summarizes the project. |
+| ECTS                   | 15                                                                                                                                                                                          |
+| Permitted aids         | With certain aids: See semester description                                                                                                                                                 |
+| Assessment             | 7-point grading scale                                                                                                                                                                       |
+| Type of grading        | External examination                                                                                                                                                                        |
+| Criteria of assessment | The criteria of assessment are stated in the Examination Policies and Procedures                                                                                                           |
