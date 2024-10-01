@@ -2,7 +2,7 @@
 
 This is a complementary space to the CREATE Sharepoint https://aaudk.sharepoint.com/sites/create 
 
-We share information especially about [onboarding](./onboarding) new colleagues and TA/RAs.
+We share information especially about [onboarding](./Onboarding) new colleagues and TA/RAs.
 
 We also have a [Code of Conduc](./CC/CC.md "Code of Conduct Draft")t in making. 
 
