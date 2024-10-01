@@ -56,11 +56,11 @@ Students who complete the module will be able to:
 
 ## Examination
 
-* Name of exam: **Music Perception and Cognition**
-* Type of Exam: Oral exam based on project.
-  In accordance with the current Joint Programme Regulations and directions on examination from the Study Board for Media Technology: Oral examination with internal censor.
-  The assessment is performed in accordance with the 7-point scale.
-* ECTS: 5
-* **Permitted** **aids:** With certain aids, Please see Semester Description.
-* **Assessment**: 7-point grading scale
-* **Criteria of assessment:** The criteria of assessment are stated in the Examination Policies and Procedures
+| Name of exam           | Music Perception and Cognition                                                                                                                                                                                                                                                          |
+| :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Type of exam           | Oral exam based on project.<br />In accordance with the current Joint Programme Regulations and directions on examination from the Study Board for Media Technology:<br />Oral examination with internal censor. The assessment is performed in accordance with the 7-point scale. |
+| ECTS                   | 5                                                                                                                                                                                                                                                                                       |
+| Permitted aids        | With certain aids: Please see Semester Description.                                                                                                                                                                                                                                     |
+| Assessment             | 7-point grading scale                                                                                                                                                                                                                                                                   |
+| Type of grading        | Internal examination                                                                                                                                                                                                                                                                    |
+| Criteria of assessment | The criteria of assessment are stated in the Examination Policies and Procedures                                                                                                                                                                                                       |
