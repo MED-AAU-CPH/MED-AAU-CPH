@@ -1,14 +1,9 @@
 # **Course Module**: **Music Perception and Cognition**
 
-Music has held an important place in all cultures around the world for
-millennia, and recently technology has made music increasingly
+Music has held an important place in all cultures around the world for´millennia, and recently technology has made music increasingly
 accessible in daily activities and integral in most digital media.
-Musical information may encode musical sound, perceived musical
-structure, the affective or semantic content of music, musical gestures
-or musical interactions. The ability to design and build effective and
-efficient computing systems for processing musical information requires
-an understanding of how music information is created, represented,
-communicated and processed by humans.
+Musical information may encode musical sound, perceived musical structure, the affective or semantic content of music, musical gestures
+or musical interactions. The ability to design and build effective and efficient computing systems for processing musical information requires an understanding of how music information is created, represented, communicated and processed by humans.
 
 This course introduces experimental, theoretical, computational and
 neuroscientific work that has contributed to our understanding of how

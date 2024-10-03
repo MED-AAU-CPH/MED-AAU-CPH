@@ -1,10 +1,8 @@
 **Course Module**: **Sonic Interaction Design**
 
-Sonic Interaction Design is a discipline at the intersection of Sound
-and Music Computing and Interaction Design.
+Sonic Interaction Design is a discipline at the intersection of Sound and Music Computing and Interaction Design.
 
-In this class you will learn about theoretical and practical aspects of
-interactive sound.
+The module will focus on theoretical and practical aspects of interactive sound. Topics covered will be auditory interfaces, spatial audio (loudspeakers and headphones), and techniques to capture, synthesize and manipulate sounds in real-time.
 
 **Learning objectives**
 
@@ -12,28 +10,26 @@ interactive sound.
 
 Students who complete the module will obtain:
 
--   understanding what is sound design for interactive media
-
--   understanding principles of sound synthesis and rendering
-
--   understanding concept of spatial sound for headphones and
-    loudspeakers
+- understanding what is sound design for interactive media
+- understanding principles of sound synthesis and rendering
+- understanding concept of spatial sound for headphones and
+  loudspeakers
 
 **Skills**
 
 Students who complete the module will be able to: 
 
--   apply knowledge on sound design to implement an interactive sonic
-    experience
+- apply knowledge on sound design to implement an interactive sonic
+  experience
 
 **Competences**
 
 Students who complete the module will be able to:
 
--   synthesize knowledge and theoretical frameworks from a variety of
-    relevant sources and disciplines, which contribute to the study of
-    sound design and processing and apply this knowledge in the design
-    of sound and music computing systems
+- synthesize knowledge and theoretical frameworks from a variety of
+  relevant sources and disciplines, which contribute to the study of
+  sound design and processing and apply this knowledge in the design
+  of sound and music computing systems
 
 +--------------+-------------------------------------------------------+
 | **Name of    | **Sonic interaction design**                          |
